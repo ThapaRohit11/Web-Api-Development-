@@ -1,0 +1,14 @@
+{
+  "name": "web_api_frontend_launcher",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm run start"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.0",
+    "tailwindcss": "^4.2.0"
+  }
+}
